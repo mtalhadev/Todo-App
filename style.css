@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+.side{
+    float:right;
+}
+#editedText{
+    width: 500px;
+}
+#main-area{
+    background-color:salmon;
+}
+li{
+    line-height: 1.5em;
+}
